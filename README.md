@@ -1,2 +1,2 @@
 # _S wipe_
-S wipe is a wipe tool. swipe has nothing to do with the literal meaning.
+_S wipe_ is a wipe tool. swipe has nothing to do with the literal meaning.
