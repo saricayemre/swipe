@@ -17,7 +17,7 @@ _S wipe_ is a wipe tool. swipe has nothing to do with the literal meaning.
 # _Usage_
 
 ```
-git clone https://github.com/saricayemre/swipe
-cd swipe-main/
-sudo python3 swipe.py
+>> git clone https://github.com/saricayemre/swipe
+>> cd swipe-main/
+>> sudo python3 swipe.py
 ```
