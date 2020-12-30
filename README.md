@@ -21,4 +21,4 @@ _S wipe_ is a wipe tool. swipe has nothing to do with the literal meaning.
 >> cd swipe-main/
 >> sudo python3 swipe.py
 ```
-# [LICENSE](https://github.com/saricayemre/swipe/blob/main/LICENSE)
+### [LICENSE](https://github.com/saricayemre/swipe/blob/main/LICENSE)
